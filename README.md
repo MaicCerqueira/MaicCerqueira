@@ -3,7 +3,7 @@
 Eu sou o Maicon Cerqueira! 🤙🏾
 
 - 🖤 Amante da Tecnologia
-- 💻 Aluno do Bootcamp Generation Brasil
+- 💻 Desenvolvedor FullStack Java Jr
 - 🤴🏾 Pronouns: ele/dele
 
 ##
